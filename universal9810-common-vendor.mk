@@ -39,3 +39,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/universal9810-common/proprietary/media/slow_charging_usb.spi:system/media/slow_charging_usb.spi \
     vendor/samsung/universal9810-common/proprietary/media/temperature_limit_usb.spi:system/media/temperature_limit_usb.spi \
     vendor/samsung/universal9810-common/proprietary/media/water_protection_usb.spi:system/media/water_protection_usb.spi
+
+PRODUCT_COPY_FILES += \
+    vendor/samsung/universal9810-common/proprietary/media/audio/notifications/Skyline.ogg:system/media/audio/notifications/Skyline.ogg \
+    vendor/samsung/universal9810-common/proprietary/media/audio/ringtones/Morning_Glory.ogg:system/media/audio/ringtones/Morning_Glory.ogg \
+    vendor/samsung/universal9810-common/proprietary/media/audio/ringtones/Over_the_Horizon.ogg:system/media/audio/ringtones/Over_the_Horizon.ogg
